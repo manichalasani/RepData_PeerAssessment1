@@ -3,8 +3,8 @@ title: "Course Project -1"
 author: "Chandana"
 date: "6 June 2018"
 output:
-  html_document: default
   md_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
